@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import time
 import re
 
-# 保存的txt文件名
+# 保存的txt文件位置
 TXT_FILE_NAME = "食品安全网10-10.txt"
 
 def main():#主函数
